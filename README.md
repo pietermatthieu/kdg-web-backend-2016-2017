@@ -150,8 +150,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 2. Banasik Katriena
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: katriena.banasik@student.kdg.be
+	- GitHub: https://github.com/galaxic/web-backend-oplossingen
 	- Feedback <table>
 	<thead>
 		<tr>
