@@ -222,8 +222,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 4. Buys Kevin
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: kevin.buys@student.kdg.be
+	- GitHub: https://github.com/Kevbi/web-backend-oplossingen
 	- Feedback <table>
 	<thead>
 		<tr>
