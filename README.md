@@ -1158,8 +1158,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 30. Verschueren Tom
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: tom.verschueren@student.kdg.be
+	- GitHub: https://github.com/TomVerschueren/web-backend-oplossingen.git
 	- Feedback <table>
 	<thead>
 		<tr>
