@@ -763,7 +763,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 
 19. Penu Andreea
 	- email: andreea.penu@student.kdg.be
-	- GitHub: https://github.com/AndreeaPenu/PenuAndreeaOplossingen
+	- GitHub: https://github.com/AndreeaPenu/PenuAndreeaOplossingen.git
 	- Feedback <table>
 	<thead>
 		<tr>
