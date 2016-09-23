@@ -799,7 +799,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 
 20. Pereira Jordy
 	- email: jordy.pereira@student.kdg.be
-	- GitHub: https://github.com/Woozsh/web-backend-oplossingen
+	- GitHub: https://github.com/Woozsh/web-backend-oplossingen.git
 	- Feedback <table>
 	<thead>
 		<tr>
