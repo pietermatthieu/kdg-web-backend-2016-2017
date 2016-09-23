@@ -402,8 +402,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 9. Diels Lode
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: lode.diels@student.kdg.be
+	- GitHub: https://github.com/LodeDiels/web-backend-oplossingen.git
 	- Feedback <table>
 	<thead>
 		<tr>
