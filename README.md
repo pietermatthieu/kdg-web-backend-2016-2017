@@ -114,12 +114,12 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 ## Studenten
 
 1. Aussems Alessandro
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: alessandro.aussems@student.kdg.be
+	- GitHub: https://github.com/alessandroaussems/web-backend-oplossingen.git
 	- Feedback <table>
 	<thead>
 		<tr>
-			<th>22/09</th>
+			<th>1</th>
 			<th>06/10</th>
 			<th>13/10</th>
 			<th>20/10</th>
