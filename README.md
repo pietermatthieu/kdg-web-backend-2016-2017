@@ -366,8 +366,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 8. Detemmerman Jordy
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: jordy.detemmerman@student.kdg.be
+	- GitHub: https://github.com/Temeines/web-backend-oplossingen
 	- Feedback <table>
 	<thead>
 		<tr>
