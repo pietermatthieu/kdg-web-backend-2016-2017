@@ -6,7 +6,9 @@ ECTS: [Web back-end WP 2](https://bamaflexweb.kdg.be/BMFUIDetailxOLOD.aspx?a=564
 
 ## Deadlines
 
-- Hier komen de deadlines
+- Deadline 01
+	- Deadline: voor de les van donderdag 6 oktober 2016
+	- Opdracht: opzetten van development omgeving en repository zoals beschreven in de cursus
 
 ## Cursus
 
