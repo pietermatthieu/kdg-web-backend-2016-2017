@@ -121,7 +121,7 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 	- Feedback <table>
 	<thead>
 		<tr>
-			<th>1</th>
+			<th>22/09</th>
 			<th>06/10</th>
 			<th>13/10</th>
 			<th>20/10</th>
