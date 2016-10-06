@@ -620,8 +620,8 @@ Graag! Je mag mij altijd aanspreken tijdens de les of een mailtje sturen met eve
 </table>
 
 15. Moerloos Thessa
-	- email: e-mailadres in de vorm van @student.kdg.be
-	- GitHub: link naar de repo met je oplossingen
+	- email: thessa.moerloos@student.kdg.be
+	- GitHub: https://github.com/ThessaMoerloos/web-backend-oplossingen
 	- Feedback <table>
 	<thead>
 		<tr>
